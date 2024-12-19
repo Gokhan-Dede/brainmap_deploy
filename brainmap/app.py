@@ -194,7 +194,7 @@ if uploaded_file:
             response_yolo = requests.post(f"{BASE_URL}/predict_yolo/", files=files)
 
         if response_yolo.status_code == 200:
-            result_yolo = result_yolo.json()
+            result_yolo = response_yolo.json()
             with col2:
                 st.write("**🔍 Detected Tumors:**")
             for detection in result_yolo.get("yolo_detections", []):
