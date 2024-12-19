@@ -203,7 +203,7 @@ if uploaded_file:
             yolo_image_url = result_yolo.get('yolo_image_url')
             if yolo_image_url:
                 response_image = requests.get(yolo_image_url)
-                if response_image.status_code == 200):
+                if response_image.status_code == 200:
                     yolo_image = Image.open(BytesIO(response_image.content))
                     with col2:
                         st.image(yolo_image, caption="Brain Tumor Detection", width=450)
