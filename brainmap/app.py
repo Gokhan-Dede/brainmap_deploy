@@ -251,9 +251,6 @@ st.markdown(
         text-align: center;
         padding: 10px;
         font-size: 0.9rem;
-    }
-    </style>
-    <div class="footer">
         © 2024 BrainMap. All rights reserved.
     </div>
     """,
