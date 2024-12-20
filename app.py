@@ -41,7 +41,7 @@ st.markdown(
 
 logo = Image.open("./static/images/logo.png")
 st.sidebar.image(logo, width=300)
-options = ["Predict (CNN)", "Predict (YOLO)", "Explainable AI", "All Results"]
+options = ["Predict Type", "Detect Location", "Explainable AI", "All Results"]
 choice = st.sidebar.radio("Choose an operation", options)
 st.sidebar.markdown("---")
 st.sidebar.write('CONTACT US')
