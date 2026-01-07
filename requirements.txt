@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+streamlit
+pillow
+numpy
+pandas
+matplotlib
+tensorflow==2.16.1
+shap
+ultralytics
+requests
+
+google-cloud-storage
+google-api-core
+googleapis-common-protos

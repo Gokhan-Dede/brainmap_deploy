@@ -1,45 +1,27 @@
-BrainMap is a cutting-edge platform leveraging artificial intelligence to revolutionize brain tumor detection and classification. Our state-of-the-art deep learning algorithms analyze MRI scans with precision, providing rapid and accurate assessments to support medical professionals in their diagnostic process.
+## Advanced MRI Analysis for Brain Tumor Detection
 
-Web app: https://brainmap-app.streamlit.app/
+Welcome to **BrainMap** — an AI-powered platform designed to transform brain tumor detection and classification using advanced deep learning techniques. BrainMap analyzes MRI scans with high precision, delivering fast and reliable assessments to support medical professionals in their diagnostic decision-making.
 
-How It Works:
-Upload an MRI Image: Simply upload your MRI image using the interface.
-Get Instant Predictions: Our advanced system will swiftly process the image and deliver a comprehensive analysis indicating the presence or absence of tumors.
+By leveraging state-of-the-art neural networks, the platform helps address the limitations of traditional manual diagnosis, which can be time-consuming and prone to human error.
 
-Why Choose BrainMap?
-Reliable: Combining the power of machine learning with medical expertise.
-Efficient: Non-invasive tool for early tumor detection.
-Improving Outcomes: Potentially enhances patient outcomes through timely intervention.
+---
 
-CONTACT US
+## How It Works
 
-Joël Tiogo, Eng, MBA
+1. **Upload an MRI Scan**  
+   Simply upload an MRI image through the application interface.
 
-✉️ tiogojoel@gmail.com
+2. **Instant AI-Powered Analysis**  
+   The system processes the image in real time and provides a detailed prediction indicating the presence or absence of a brain tumor.
 
-https://www.linkedin.com/in/joeltiogo/
+---
 
-Gökhan Dede, PhD
+## Why Choose BrainMap?
 
-✉️ gokhandede.ai@gmail.com
+- **Reliable** – Combines deep learning techniques with medical imaging expertise  
+- **Efficient** – A non-invasive and automated approach to early tumor detection  
+- **Impactful** – Supports timely diagnosis, potentially improving patient outcomes  
 
-https://www.linkedin.com/in/gokhan-dede/
+---
 
-Antonio Ferri, CFA
-
-✉️ antonio.ferri@gmail.com
-
-https://www.linkedin.com/in/ferriantonio/
-
-Markus Kaller, PhD
-
-✉️ markus_kaller@gmx.de
-
-https://www.linkedin.com/in/markus-kaller/
-
-Mosleh Rostami, MSc
-
-✉️ Mosleh.rostami@gmail.com
-
-https://www.linkedin.com/in/mosleh-rostami-50aa6238/
-
+Thank you for choosing **BrainMap** as your trusted solution for intelligent medical imaging analysis.
