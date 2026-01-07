@@ -16,6 +16,41 @@ By leveraging state-of-the-art neural networks, the platform helps address the l
 
 ---
 
+## Technology Stack
+
+BrainMap is built using a modern, production-ready machine learning and cloud deployment stack, combining deep learning, explainable AI, and scalable cloud infrastructure.
+
+### Machine Learning & Deep Learning
+- **Python** – Core programming language for model development and data processing  
+- **TensorFlow & Keras** – Training and deploying deep learning models  
+- **PyTorch** – Flexible experimentation and research-oriented model development  
+- **Convolutional Neural Networks (CNNs)** – Feature extraction and classification from MRI images  
+- **YOLOv8** – Real-time object detection for tumor localization  
+- **Explainable AI (XAI)** – Improves model transparency and interpretability  
+- **SHAP** – Visual explanations highlighting regions of MRI scans influencing predictions  
+
+### Backend & API
+- **FastAPI** – High-performance API for serving model predictions  
+- **Uvicorn** – ASGI server for fast and asynchronous API execution  
+
+### Frontend
+- **Streamlit** – Interactive web interface for uploading MRI scans and visualizing results  
+
+### Cloud & Deployment
+- **Docker** – Containerization for consistent and portable deployments  
+- **Google Cloud Artifact Registry** – Secure storage and versioning of Docker images  
+- **Google Cloud Run** – Serverless deployment for scalable model inference  
+- **Google Cloud Storage** – Storage of MRI images and model artifacts  
+
+### DevOps & Version Control
+- **GitHub** – Source code management and collaboration  
+
+---
+
+This architecture enables **scalable, explainable, and production-ready AI-driven medical imaging analysis**.
+
+---
+
 ## Why Choose BrainMap?
 
 - **Reliable** – Combines deep learning techniques with medical imaging expertise  
