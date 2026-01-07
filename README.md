@@ -1,12 +1,27 @@
-Advanced MRI Analysis for Tumor Detections
-Welcome to BrainMap!
-BrainMap is a cutting-edge platform leveraging artificial intelligence to revolutionize brain tumor detection and classification. Our state-of-the-art deep learning algorithms analyze MRI scans with precision, providing rapid and accurate assessments to support medical professionals in their diagnostic process.
+## Advanced MRI Analysis for Brain Tumor Detection
 
-How It Works:
-Upload an MRI Image: Simply upload your MRI image using the interface.
-Get Instant Predictions: Our advanced system will swiftly process the image and deliver a comprehensive analysis indicating the presence or absence of tumors.
-Why Choose BrainMap?
-Reliable: Combining the power of machine learning with medical expertise.
-Efficient: Non-invasive tool for early tumor detection.
-Improving Outcomes: Potentially enhances patient outcomes through timely intervention.
-Thank you for choosing BrainMap as your trusted partner in medical imaging analysis!
+Welcome to **BrainMap** — an AI-powered platform designed to transform brain tumor detection and classification using advanced deep learning techniques. BrainMap analyzes MRI scans with high precision, delivering fast and reliable assessments to support medical professionals in their diagnostic decision-making.
+
+By leveraging state-of-the-art neural networks, the platform helps address the limitations of traditional manual diagnosis, which can be time-consuming and prone to human error.
+
+---
+
+## How It Works
+
+1. **Upload an MRI Scan**  
+   Simply upload an MRI image through the application interface.
+
+2. **Instant AI-Powered Analysis**  
+   The system processes the image in real time and provides a detailed prediction indicating the presence or absence of a brain tumor.
+
+---
+
+## Why Choose BrainMap?
+
+- **Reliable** – Combines deep learning techniques with medical imaging expertise  
+- **Efficient** – A non-invasive and automated approach to early tumor detection  
+- **Impactful** – Supports timely diagnosis, potentially improving patient outcomes  
+
+---
+
+Thank you for choosing **BrainMap** as your trusted solution for intelligent medical imaging analysis.
